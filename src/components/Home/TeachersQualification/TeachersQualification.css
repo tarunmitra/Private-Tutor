@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.TeachersQualification-section {
+  height: 600px;
+  background: rgb(104,152,146);
+  margin-top: 80px;
+}
+.our-works {
+  font-family: "Poppins", sans-serif;
+  color: #ffffff !important;
+  font-weight: 700;
+}
+.our-works span {
+  color: rgba(0, 0, 0, 0.726) !important;
+}
+.slider-container img {
+  width: auto;
+  margin: 0 auto;
+}
